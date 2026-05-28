@@ -2,6 +2,12 @@
 
 A real-time implementation of Craig Reynolds' [Boids algorithm](https://www.red3d.com/cwr/boids/) in Godot 4. 150 agents exhibit emergent flocking behavior through three deceptively simple local rules.
 
+## Demo
+
+[![Boids Flocking Demo](https://img.youtube.com/vi/-riNYVJONNw/0.jpg)](https://youtu.be/-riNYVJONNw)
+
+---
+
 ## Opening the Project
 
 1. Install **Godot 4.3 or later** (GL Compatibility renderer) from [godotengine.org](https://godotengine.org/)
