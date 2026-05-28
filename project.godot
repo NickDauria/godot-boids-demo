@@ -1,0 +1,18 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; but the file format allows this.
+
+config_version=5
+
+[application]
+
+config/name="Boids Flocking Demo"
+config/description="Real-time Boids flocking simulation — Godot 4"
+run/main_scene="res://Main.tscn"
+config/features=PackedStringArray("4.3", "GL Compatibility")
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/resizable=false
